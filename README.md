@@ -1,7 +1,7 @@
 # 🛡️ Cyber Security Journey
 
 Merhaba! Ben **Cafer**. Yazılım ve donanım alanında aktif olarak projeler geliştiren bir bilişim öğrencisiyim.  
-Siber güvenlik alanına yönelmeye başladım ve bu repo öğrenme sürecimi takip etmek için oluşturuldu.
+Siber güvenlik alanına yönelmeye başladım ve bu repo öğrenme sürecimi takip etmek için oluşturdum.
 
 > Bu repo **T1 Siber Güvenlik Kampı** kapsamında oluşturulmuştur.
 
